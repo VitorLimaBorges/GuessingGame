@@ -1,0 +1,11 @@
+.git
+.gitignore
+*.md
+.dockerignore
+Dockerfile
+docker-compose.yml
+out/
+*.class
+.idea/
+.vscode/
+*.iml
